@@ -40,7 +40,7 @@ Specializing in: Cloud Computing · Software Development · DevOps · Machine Le
 
 ![Neon Divider](./neon-divider.svg)
 
-## ⚡ TECH STACK
+## ✦ TECH STACK
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Specializing in: Cloud Computing · Software Development · DevOps · Machine Le
 
 ![Neon Divider](./neon-divider.svg)
 
-## 📊 GITHUB STATISTICS
+## ✦ GITHUB STATISTICS
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Specializing in: Cloud Computing · Software Development · DevOps · Machine Le
 
 ![Neon Divider](./neon-divider.svg)
 
-## 🎯 GOALS & VISION
+## ✦ GOALS & VISION
 
 <div align="center">
 

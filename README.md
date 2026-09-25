@@ -8,9 +8,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
 </a>
 
-<a href="mailto:jsebastian579@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-0080FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
 <a href="https://github.com/SebastianGarcia333">
   <img src="https://img.shields.io/badge/Follow-00BFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
@@ -28,15 +25,18 @@
 
 ## ✦ ABOUT ME
 
-**Systems Engineering Student** passionate about building modern software and cloud solutions.
+Systems Engineering Student | Cloud Computing Enthusiast | AWS Certified
 
-Currently focused on **Cloud Computing (AWS)**, **Data Engineering**, and **Full Stack Development**.
+Passionate about building scalable cloud solutions and exploring 
+the intersection of Cloud Infrastructure + AI/ML. Currently focused 
+on deepening my expertise in AWS architecture, DevOps, and automation.
+
+AWS Certified Cloud Practitioner | Continuous Learner | Open to internships & collaborative projects
+
+Specializing in: Cloud Computing · Software Development · DevOps · Machine Learning · Artificial Intelligence.
 
 <br/>
 
-<img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-00D9FF?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-
-</div>
 
 ![Neon Divider](./neon-divider.svg)
 
@@ -76,13 +76,16 @@ Currently focused on **Cloud Computing (AWS)**, **Data Engineering**, and **Full
 
 <div align="center">
 
-✧ Master Cloud Architecture on AWS
+✧ ☁️ Master Cloud Architecture (EC2, S3, Lambda, RDS, VPC)
 
-✧ Specialize in Data Engineering & Analytics  
+✧ 🤖 Specialize in ML & AI implementations
 
-✧ Build scalable & impactful solutions
+✧ 🚀 Build production-ready solutions
 
-✧ Continuous learning & innovation
+✧ 📖 Contribute to open-source
+
+✧ 📚 Continuous learning & 
+
 
 </div>
 
@@ -90,7 +93,7 @@ Currently focused on **Cloud Computing (AWS)**, **Data Engineering**, and **Full
 
 <div align="center">
 
-### `$ always building something new ✦`
+### `✦ Committed to excellence in every project ✦`
 
 <br/>
 

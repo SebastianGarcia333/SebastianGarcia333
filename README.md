@@ -76,15 +76,15 @@ Specializing in: Cloud Computing · Software Development · DevOps · Machine Le
 
 <div align="center">
 
-✧ ☁️ Master Cloud Architecture (EC2, S3, Lambda, RDS, VPC)
+✧ Master Cloud Architecture (EC2, S3, Lambda, RDS, VPC)
 
-✧ 🤖 Specialize in ML & AI implementations
+✧ Specialize in ML & AI implementations
 
-✧ 🚀 Build production-ready solutions
+✧ Build production-ready solutions
 
-✧ 📖 Contribute to open-source
+✧ Contribute to open-source
 
-✧ 📚 Continuous learning & 
+✧ Continuous learning & 
 
 
 </div>

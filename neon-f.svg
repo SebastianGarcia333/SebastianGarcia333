@@ -5,7 +5,6 @@
         0% { transform: translateX(-180px); }
         100% { transform: translateX(1200px); }
       }
-
       /* Reducido a 3.5s para que sea más rápido */
       .car-container { animation: drive 3.5s linear infinite; }
       .neon-blue { stroke: #00D9FF; filter: drop-shadow(0 0 3px #0080FF); }

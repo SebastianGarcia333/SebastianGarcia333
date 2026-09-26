@@ -89,7 +89,7 @@ Specializing in: Cloud Computing · Software Development · DevOps · Machine Le
 
 </div>
 
-![Neon Divider](./neon-divider.svg)
+![Neon Divider](./neon-f.svg)
 
 <div align="center">
 

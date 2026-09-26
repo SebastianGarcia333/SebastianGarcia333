@@ -102,4 +102,5 @@ Specializing in: Cloud Computing · Software Development · DevOps · Machine Le
 <sub>Thanks for visiting ✧</sub>
 
 </div>
+
 ![Neon Divider](./neon-f.svg)

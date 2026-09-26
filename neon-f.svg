@@ -6,15 +6,13 @@
         100% { transform: translateX(1200px); }
       }
 
-      .car-container { animation: drive 6s linear infinite; }
+      /* Reducido a 3.5s para que sea más rápido */
+      .car-container { animation: drive 3.5s linear infinite; }
       .neon-blue { stroke: #00D9FF; filter: drop-shadow(0 0 3px #0080FF); }
     </style>
   </defs>
 
-  <!-- Background transparente/oscuro opcional -->
-  <rect width="1200" height="50" fill="#0A0E27" opacity="0.5"/>
-
-  <!-- Auto F1 sobre la barra invisible perfectamente centrado sin cortes -->
+  <!-- Auto F1 sobre fondo 100% transparente -->
   <g class="car-container">
     <g transform="translate(0, 5) scale(0.12)">
       
@@ -24,7 +22,7 @@
       <path d="M 20,40 L 80,40" fill="none" class="neon-blue" stroke-width="6"/>
 
       <!-- Rueda Trasera -->
-      <circle cx="165" cy="180" r="75" fill="#0A0E27" class="neon-blue" stroke-width="9"/>
+      <circle cx="165" cy="180" r="75" fill="none" class="neon-blue" stroke-width="9"/>
       <circle cx="165" cy="180" r="45" fill="none" class="neon-blue" stroke-width="6"/>
       <circle cx="165" cy="180" r="18" fill="none" class="neon-blue" stroke-width="6"/>
 
@@ -44,7 +42,7 @@
             fill="none" class="neon-blue" stroke-width="6"/>
 
       <!-- Rueda Delantera -->
-      <circle cx="765" cy="180" r="75" fill="#0A0E27" class="neon-blue" stroke-width="9"/>
+      <circle cx="765" cy="180" r="75" fill="none" class="neon-blue" stroke-width="9"/>
       <circle cx="765" cy="180" r="45" fill="none" class="neon-blue" stroke-width="6"/>
       <circle cx="765" cy="180" r="18" fill="none" class="neon-blue" stroke-width="6"/>
 

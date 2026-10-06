@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sebastián-g-15ab7b343" target="_blank">
+<a href="https://www.linkedin.com/in/sebastian-g-15ab7b343" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
 </a>
 

@@ -44,7 +44,7 @@ Specializing in: Cloud Computing · Software Development · DevOps · Machine Le
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python&theme=dark)![Java](https://skillicons.dev/icons?i=java&theme=dark)![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)![SQL](https://skillicons.dev/icons?i=sql&theme=dark)![R](https://skillicons.dev/icons?i=r&theme=dark)![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)![Java](https://skillicons.dev/icons?i=java&theme=dark)![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)![HTML](https://skillicons.dev/icons?i=html&theme=dark)![CSS](https://skillicons.dev/icons?i=css&theme=dark)![SQL](https://skillicons.dev/icons?i=sql&theme=dark)![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark)![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)![R](https://skillicons.dev/icons?i=r&theme=dark)
 
 ![Pandas](https://skillicons.dev/icons?i=pandas&theme=dark)![NumPy](https://skillicons.dev/icons?i=numpy&theme=dark)![AWS](https://skillicons.dev/icons?i=aws&theme=dark)![Git](https://skillicons.dev/icons?i=git&theme=dark)![GitHub](https://skillicons.dev/icons?i=github&theme=dark)![Googlecolab](https://skillicons.dev/icons?i=googlecolab&theme=dark)
 

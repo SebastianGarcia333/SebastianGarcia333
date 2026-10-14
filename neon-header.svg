@@ -29,16 +29,11 @@
       .subtitle { font-size: 22px; fill: #00BFFF; }
     </style>
 
-    <!-- Gradientes para la ciudad y el cielo -->
+    <!-- Gradientes para el cielo -->
     <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#030712"/>
       <stop offset="40%" stop-color="#0A1128"/>
       <stop offset="100%" stop-color="#001F3F"/>
-    </linearGradient>
-
-    <linearGradient id="buildingGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#003366" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#000A1A" stop-opacity="0.95"/>
     </linearGradient>
 
     <linearGradient id="glowFloor" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -64,48 +59,11 @@
   <!-- Light beam effect -->
   <rect x="0" y="100" width="400" height="3" fill="url(#glowFloor)" class="beam"/>
 
-  <!-- 3. CIUDAD FUTURISTA (Siluetas y Edificios Vectoriales) -->
-  <g stroke="#00D9FF" stroke-width="1.2" fill="url(#buildingGrad)" opacity="0.85">
-    <!-- Capa trasera de edificios (más oscura/baja) -->
-    <path d="M 50 280 L 50 180 L 80 180 L 80 280 Z" opacity="0.5"/>
-    <path d="M 120 280 L 120 150 L 160 150 L 160 280 Z" opacity="0.5"/>
-    <path d="M 280 280 L 280 130 L 330 130 L 330 280 Z" opacity="0.5"/>
-    <path d="M 500 280 L 500 110 L 540 110 L 540 280 Z" opacity="0.5"/>
-    <path d="M 750 280 L 750 120 L 790 120 L 790 280 Z" opacity="0.5"/>
-    <path d="M 920 280 L 920 140 L 970 140 L 970 280 Z" opacity="0.5"/>
-
-    <!-- Capa principal de rascacielos -->
-    <path d="M 90 280 L 90 120 L 140 120 L 140 280 Z"/>
-    <path d="M 170 280 L 170 160 L 210 160 L 210 280 Z"/>
-    <path d="M 220 280 L 220 90 L 260 90 L 270 110 L 270 280 Z"/>
-    <path d="M 340 280 L 340 100 L 380 100 L 380 280 Z"/>
-    <path d="M 390 280 L 390 70 L 430 70 L 430 280 Z"/> <!-- Torre alta izquierda -->
-    <path d="M 440 280 L 440 140 L 480 140 L 480 280 Z"/>
-    <path d="M 550 280 L 550 80 L 580 50 L 610 80 L 610 280 Z"/> <!-- Torre central puntiaguda -->
-    <path d="M 620 280 L 620 130 L 660 130 L 660 280 Z"/>
-    <path d="M 670 280 L 670 95 L 720 95 L 720 280 Z"/>
-    <path d="M 730 280 L 730 150 L 770 150 L 770 280 Z"/>
-    <path d="M 800 280 L 800 60 L 840 60 L 840 280 Z"/> <!-- Torre alta derecha -->
-    <path d="M 850 280 L 850 135 L 890 135 L 890 280 Z"/>
-    <path d="M 980 280 L 980 110 L 1020 110 L 1020 280 Z"/>
-    <path d="M 1030 280 L 1030 170 L 1080 170 L 1080 280 Z"/>
-  </g>
-
-  <!-- Ventanas y líneas verticales cyan brillante en los edificios -->
-  <g stroke="#00D9FF" stroke-width="0.8" opacity="0.6" class="pulse-element">
-    <!-- Detalle de líneas internas (efecto circuito/tecnología en edificios) -->
-    <line x1="240" y1="100" x2="240" y2="270" stroke-dasharray="3,3"/>
-    <line x1="410" y1="80" x2="410" y2="270" stroke-dasharray="4,2"/>
-    <line x1="580" y1="90" x2="580" y2="270" stroke-dasharray="2,2"/>
-    <line x1="700" y1="105" x2="700" y2="270" stroke-dasharray="5,3"/>
-    <line x1="820" y1="70" x2="820" y2="270" stroke-dasharray="3,3"/>
-  </g>
-
-  <!-- Resplandor azul en la base de la ciudad -->
+  <!-- Resplandor azul en la base inferior -->
   <rect x="0" y="260" width="1200" height="40" fill="url(#glowFloor)"/>
   <line x1="50" y1="275" x2="1150" y2="275" stroke="#00D9FF" stroke-width="2" class="glow-text"/>
 
-  <!-- 4. Marcos y decoraciones geométricas -->
+  <!-- 3. Marcos y decoraciones geométricas -->
   <rect x="50" y="30" width="1100" height="240" fill="none" stroke="#00D9FF" stroke-width="2" rx="15" class="glow-text"/>
   
   <!-- Círculos decorativos superiores -->
@@ -125,7 +83,7 @@
   <rect x="1100" y="120" width="5" height="5" fill="#0080FF" class="pulse-element" style="animation-delay: 0.4s;"/>
   <rect x="1090" y="200" width="8" height="8" fill="#00BFFF" class="pulse-element" style="animation-delay: 0.8s;"/>
 
-  <!-- 5. TEXTOS PRINCIPALES -->
+  <!-- 4. TEXTOS PRINCIPALES -->
   <text x="80" y="145" class="title glow-text">SEBASTIAN GARCIA</text>
   <text x="80" y="195" class="subtitle glow-text">Systems Engineering | Software Developer | Aspiring Cloud Engineer</text>
 
